@@ -2,7 +2,7 @@
 
 I am a Front End Developer looking to improve my skills in multiple languages.
 
-- 🌱 I’m currently learning Node.js, React.js + redux
+- 🌱 I’m currently learning Node.js, React.js + redux and Typescript
 - 🔭 I’m currently working on a Discord bot
 - ⚡ I’m looking to hopefully start learning Python again.
 - 🌱 Recently I was learning Flutter
