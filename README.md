@@ -4,7 +4,7 @@ I am a Front End Developer looking to improve my skills in multiple languages.
 
 - 🌱 I’m currently learning Node.js, React.js + redux
 - 🔭 I’m currently working on a Discord bot
-- 👯 I’m looking to hopefully start learning Python again.
+- ⚡ I’m looking to hopefully start learning Python again.
 
 <!--
 **Tom-J-G/Tom-J-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
