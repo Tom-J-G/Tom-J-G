@@ -1,6 +1,6 @@
 ### Hello 
 
-I am a Front End Developer looking to improve my skills in multiple languages.
+I am a Developer mainly focused on front end looking to improve my skills in multiple languages as well as lokking into Backend.
 
 - 🌱 I’m currently learning Node.js, React.js + redux and Typescript
 - 🔭 I’m currently working on a Discord bot
